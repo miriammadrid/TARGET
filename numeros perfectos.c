@@ -1,6 +1,7 @@
 #include <stdio.h>
 /*Escribir un programa que dado un número n determine si es o no un 
   número perfecto.*/
+/* esta es una prueba*/
 int main() {
 	int i, num, sum=0, cont=0;
 	
